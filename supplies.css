@@ -1,0 +1,91 @@
+body {
+	margin:0px;
+}
+
+.loc_btn {
+	background-color:#d22;
+	padding:15px;
+	margin:5px;
+	-moz-border-radius:15px; // FF
+	-webkit-border-radius:15px;
+	border: 1px solid #000;
+	color: #fff;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.loc_btn:hover {
+	background-color:#f88;
+	color: #d22;
+}
+
+#lit_up {
+	background-color:#f88;
+	color: #d22;
+}
+#content {
+	text-align:center;
+	padding-top:20px;
+	margin:0px;
+}
+
+#destinations {
+
+}
+
+#headline {
+	font-family:monospace;
+	font-size:24px;
+	letter-spacing:14px;
+	margin-bottom:0px;
+}
+
+h3 { 
+	padding:10px;
+	color:#666;
+	margin:10px;
+}
+
+#youmust {
+	padding-top: -100px;
+}
+
+.paper-toner {
+	font-family: monospace;
+	letter-spacing:8px;
+	margin-right:350px;
+	font-weight: bold;
+	border-top: 1px dashed;
+	text-align:left;
+	margin-left:350px;
+	margin-top:10px;
+}
+
+.product_listing {
+	padding:8px;
+}
+
+#wtf {
+	position:absolute;
+	right:30px;
+	bottom:30px;
+	padding:5px;
+	background-color:#ccc;
+}
+
+#wtf:hover {
+	background-color:#eee;
+	color:#ccc;
+}
+
+#instructions {
+	position:absolute;
+	padding:10px;
+	top:100px;
+	left:100px;
+	width:250px;
+	height:350px;
+//	display:none;
+	background-color:#eee;
+	border: 1px solid #000;
+}
